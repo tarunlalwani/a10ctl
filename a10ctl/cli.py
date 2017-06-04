@@ -1,4 +1,4 @@
-from a10.command import main
+from .command import main
 
 
 def cli():
